@@ -158,7 +158,7 @@ public class Main {
                 case 0:
                     System.out.println("\nTerima kasih sudah menggunakan Spotify versi Java!");
                     break;
-            
+            //gatau
                 default:
                     System.out.println("Pilihan tidak valid!");
                     break;
