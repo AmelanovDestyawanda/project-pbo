@@ -1,4 +1,4 @@
-package com.jts.entity;
+package com.echofy.entity;
 
 import java.io.Serializable;
 

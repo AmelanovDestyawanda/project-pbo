@@ -10,10 +10,10 @@
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
 	
-	<groupId>com.jts</groupId>
-	<artifactId>spotify-integration</artifactId>
+	<groupId>com.echofy</groupId>
+	<artifactId>echofy</artifactId>
 	<version>1.0.0.0</version>
-	<name>spotify-integration</name>
+	<name>echofy</name>
 	<description>spotify-integration</description>
 	
 	<properties>

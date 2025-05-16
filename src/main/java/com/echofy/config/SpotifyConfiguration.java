@@ -1,4 +1,4 @@
-package com.jts.config;
+package com.echofy.config;
 
 import java.net.URI;
 
